@@ -15,7 +15,7 @@ Um clone clássico do jogo Tetris desenvolvido em JavaScript usando a biblioteca
 - [Customização](#customização)
 - [Contribuindo](#contribuindo)
 
-## �� Demonstração
+## ⚡⚡ Demonstração
 
 O jogo apresenta:
 - **Área de jogo principal** (300x540 pixels)
@@ -124,16 +124,6 @@ npm install -g http-server
 http-server
 ```
 
-**Opção 3: Live Server (VS Code)**
-- Instale a extensão "Live Server"
-- Clique com o botão direito em `index.html`
-- Selecione "Open with Live Server"
-
-3. **Acesse no navegador**
-```
-http://localhost:8000
-```
-
 ## 🎮 Controles
 
 | Tecla | Ação |
@@ -144,7 +134,7 @@ http://localhost:8000
 | `↓` | Acelerar queda da peça |
 | `R` | Reiniciar o jogo |
 
-## �� Mecânicas do Jogo
+## 🤖🤖 Mecânicas do Jogo
 
 ### Sistema de Pontuação
 - **100 pontos** por linha simples removida
