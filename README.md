@@ -269,6 +269,6 @@ Contribuições são bem-vindas! Para contribuir:
 
 ---
 
-**Desenvolvido com ❤️ usando p5.js**
+**Desenvolvido usando p5.js**
 
 *Divirta-se jogando e contribuindo para o projeto!* 🎮
